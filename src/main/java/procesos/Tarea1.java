@@ -10,10 +10,7 @@ class Tarea1 implements Runnable {
 	   }
 
 	   public void run() {
-	   
-
 	      for (int i = 0; i < s1.length; i++) {
-
 	    	  m.Question(s1[i]);
 	      }
 	   }
